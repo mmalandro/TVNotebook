@@ -1,6 +1,6 @@
 numpy
 pandas
-bokeh==0.12.0
+bokeh==0.12.13
 sklearn
 matplotlib
 scipy
